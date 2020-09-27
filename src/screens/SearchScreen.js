@@ -33,7 +33,7 @@ const filterResultsByPrice = function (price) {
             title="Stor slösare"
             />
         </ScrollView>
-    </ >
+    </>
     )
 }
 

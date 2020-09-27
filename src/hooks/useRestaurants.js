@@ -24,7 +24,7 @@ export default () => {
 
   // Call searchApi when component
   // is first rendered
-//   searchApi('pasta')
+//   searchApi('pasta') for example
 
     useEffect(() => {
         searchApi('pasta ')
